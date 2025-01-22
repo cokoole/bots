@@ -1,0 +1,7 @@
+.vscode/
+build/
+scrinShots/*tmp*.jpg
+src/test.cpp
+*.db
+telegramBot/tgbot-cpp
+telegramBot/config.json
